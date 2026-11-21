@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.11.1" />
+    <PackageReference Include="xunit" Version="2.9.2" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.8.2" />
+    <!-- Solo para los tipos matemáticos de Godot (Vector2, Mathf); no se arranca el motor. -->
+    <PackageReference Include="GodotSharp" Version="4.7.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Using Include="Xunit" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="../../scripts/Pinball/*.cs" LinkBase="Pinball" />
+    <Compile Include="../../scripts/Curling/*.cs" LinkBase="Curling" />
+    <Compile Include="../../scripts/Core/PowerMeter.cs" Link="Core/PowerMeter.cs" />
+    <Compile Include="../../scripts/Core/TennisScore.cs" Link="Core/TennisScore.cs" />
+    <Compile Include="../../scripts/Core/WordBank.cs" Link="Core/WordBank.cs" />
+    <Compile Include="../../scripts/Core/Exercises.cs" Link="Core/Exercises.cs" />
+    <Compile Include="../../scripts/Core/MazeLevels.cs" Link="Core/MazeLevels.cs" />
+    <Compile Include="../../scripts/Core/Pad.cs" Link="Core/Pad.cs" />
+    <Content Include="../../assets/palabras/*.txt" LinkBase="datos/palabras" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="../../assets/laberintos/*.txt" LinkBase="datos/laberintos" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="../../assets/ejercicios/*.txt" LinkBase="datos/ejercicios" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="../../Bastidor/pruebas/fisica_pinball.txt" Link="fisica_pinball.txt" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

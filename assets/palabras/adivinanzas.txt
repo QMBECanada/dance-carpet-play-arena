@@ -1,0 +1,253 @@
+# Adivinanzas para ADIVINANZA. Una por línea: pista | RESPUESTA
+# La respuesta en mayúsculas, con sus tildes, y como mucho 8 letras distintas (las tildes no cuentan; la Ñ sí).
+# Las líneas que empiezan por # se ignoran.
+
+# --- Animales
+El rey de la selva | LEÓN
+Animal que dice «miau» | GATO
+El mejor amigo del hombre | PERRO
+Da leche y dice «muu» | VACA
+El mamífero más grande del mar | BALLENA
+Animal gris con trompa | ELEFANTE
+Insecto que fabrica miel | ABEJA
+Ave verde que repite lo que oye | LORO
+Animal lento que lleva su casa a cuestas | TORTUGA
+Ave nocturna que dice «uh, uh» | BÚHO
+Salta y lleva a su cría en una bolsa | CANGURO
+Hace «quiquiriquí» al amanecer | GALLO
+Tiene ocho patas y teje telas | ARAÑA
+Tiene el cuello más largo de la sabana | JIRAFA
+Caballo con rayas blancas y negras | CEBRA
+Tiene ocho brazos y vive en el mar | PULPO
+Ave blanca y negra que no vuela y vive en el hielo | PINGÜINO
+Reptil enorme con muchos dientes que vive en los ríos | COCODRILO
+Pez enorme con una aleta en el lomo que da miedo | TIBURÓN
+Animal con joroba que cruza el desierto | CAMELLO
+Roedor de cola peluda que guarda nueces | ARDILLA
+Insecto pequeño que trabaja en fila | HORMIGA
+Insecto rojo con puntos negros | MARIQUITA
+Animal de orejas largas que come zanahorias | CONEJO
+Ave que vuela con un mensaje en la pata | PALOMA
+Animal de granja que hace «oinc» | CERDO
+Animal de granja que hace «bee» | OVEJA
+Animal que rebuzna | BURRO
+Felino con manchas, el más rápido de la tierra | GUEPARDO
+Mono muy grande y muy fuerte | GORILA
+Animal con un cuerno en la nariz | RINOCERONTE
+Animal que vive en el agua y dice «croac» | RANA
+Animal astuto de cola roja | ZORRO
+Mamífero marino que juega con pelotas en el circo | FOCA
+Ave elegante y blanca que nada en los lagos | CISNE
+Insecto de colores que antes fue oruga | MARIPOSA
+Animal pequeño que vive bajo tierra y casi no ve | TOPO
+Oso blanco y negro que come bambú | PANDA
+Ave rosa que se apoya en una sola pata | FLAMENCO
+Ave que da huevos en la granja | GALLINA
+Reptil que cambia de color | CAMALEÓN
+Ave rapaz que vuela muy alto | ÁGUILA
+Caballo pequeño | PONI
+Animal que construye presas en los ríos | CASTOR
+Lleva una concha y deja un rastro de baba | CARACOL
+Animal que camina de lado en la playa | CANGREJO
+Animal salvaje parecido al perro que aúlla a la luna | LOBO
+Animal grande que hiberna y come miel | OSO
+Vive en el agua y respira por branquias | PEZ
+
+# --- Comida y bebida
+Fruta amarilla y curvada | PLÁTANO
+Fruta roja con las semillas por fuera | FRESA
+Fruta roja o verde de la que se hace sidra | MANZANA
+Dulce marrón hecho con cacao | CHOCOLATE
+Verdura naranja favorita de los conejos | ZANAHORIA
+Se come en los cumpleaños con velas encima | TARTA
+Bebida negra y caliente de las mañanas | CAFÉ
+Bebida blanca que da la vaca | LECHE
+Lo pone la gallina | HUEVO
+Fruta grande, verde por fuera y roja por dentro | SANDÍA
+Fruta ácida y amarilla | LIMÓN
+Fruta de cáscara gruesa que se exprime para el zumo del desayuno | NARANJA
+Hortaliza roja que va en la ensalada | TOMATE
+Se hace con leche y tiene agujeros | QUESO
+Se compra cada día en la tahona y se come en bocadillo | PAN
+Fruta pequeña que crece en racimos | UVA
+Se comen en el cine | PALOMITAS
+Pasta larga y fina de Italia | ESPAGUETI
+Dulce que se chupa y tiene muchos sabores | CARAMELO
+Se unta en el pan y se hace con fruta | MERMELADA
+Fruta roja pequeña con hueso que va de dos en dos | CEREZA
+Tubérculo con el que se hacen tortillas | PATATA
+Hoja verde que es la base de la ensalada | LECHUGA
+Fruto seco que comen los monos y los elefantes | CACAHUETE
+Hortaliza naranja que se vacía en Halloween | CALABAZA
+Lo hacen las abejas y es dulce | MIEL
+Se echa a la comida para darle sabor y es blanca | SAL
+Se toma con cuchara y está caliente | SOPA
+Dulce crujiente que se moja en la leche | GALLETA
+Fruto marrón y peludo con agua dentro | COCO
+Fruta tropical amarilla con corona | PIÑA
+
+# --- La casa y los objetos
+Sirve para abrir una puerta | LLAVE
+Sirve para saber la hora | RELOJ
+Se usa para escribir y se borra con goma | LÁPIZ
+Sirve para cortar papel | TIJERA
+Se ponen en la nariz para ver mejor | GAFAS
+Lo usas para secarte después de la ducha | TOALLA
+Lo que estás pisando ahora mismo | ALFOMBRA
+Sirve para hacer fotos | CÁMARA
+Tiene páginas y cuenta historias | LIBRO
+Te protege de la lluvia | PARAGUAS
+Donde duermes por la noche | CAMA
+Te sientas en ella | SILLA
+Te refleja cuando te miras | ESPEJO
+Por ella entra la luz de la calle | VENTANA
+Se usa para tomar la sopa | CUCHARA
+Se usa para pinchar la comida | TENEDOR
+Sirve para lavarse los dientes | CEPILLO
+Sirve para peinarse | PEINE
+Se lleva al cuello cuando hace frío | BUFANDA
+Va en el pie dentro del zapato | CALCETÍN
+Se cuelga en el jardín para echarse la siesta | HAMACA
+Llevas en ella los libros al colegio | MOCHILA
+Alumbra en la oscuridad y lleva pilas | LINTERNA
+Escribe con tinta | BOLÍGRAFO
+Afila los lápices | SACAPUNTAS
+Suena en la puerta cuando llega alguien | TIMBRE
+Sirve para hablar con alguien que está lejos | TELÉFONO
+Sirve para ver series y películas en casa | TELEVISIÓN
+Lleva agua o refresco y tiene tapón | BOTELLA
+Sirve para subir de un piso a otro | ESCALERA
+Se enciende en una tarta o cuando se va la luz | VELA
+Sirve para barrer el suelo | ESCOBA
+Se pone en la cabeza para el sol | GORRA
+Calzado de verano que deja ver los dedos | SANDALIAS
+Se mete en ella la planta con tierra | MACETA
+
+# --- Naturaleza y el cielo
+Astro que nos da luz de día | SOL
+Brilla de noche y cambia de forma cada semana | LUNA
+Es frío y se derrite al sol | HIELO
+Cae del cielo en invierno y es blanca | NIEVE
+Arena, olas y sombrillas | PLAYA
+Flor amarilla que mira al sol | GIRASOL
+Árbol que se adorna en Navidad | PINO
+Los tiene el arco iris | COLORES
+Montaña que echa fuego | VOLCÁN
+Se mueve, no se ve y despeina | VIENTO
+Agua salada que llega hasta el horizonte | MAR
+Corre agua por él hasta llegar al mar | RÍO
+Tierra rodeada de agua por todas partes | ISLA
+Flor con espinas | ROSA
+Brilla en el cielo de noche | ESTRELLA
+Se ve en el cielo después de llover | ARCOÍRIS
+Lluvia fuerte con rayos y truenos | TORMENTA
+Blanca y esponjosa, flota en el cielo | NUBE
+Árbol de la playa con cocos | PALMERA
+Gran altura de tierra y roca | MONTAÑA
+Desierto de arena, el más grande de África | SAHARA
+Planeta en el que vivimos | TIERRA
+El planeta rojo | MARTE
+Lo que sale cuando algo se quema | HUMO
+Lo apagan los bomberos | FUEGO
+
+# --- El cuerpo
+Sirve para oler | NARIZ
+Sirve para ver | OJO
+Tiene cinco dedos | MANO
+Late dentro del pecho | CORAZÓN
+Sirve para pensar | CEREBRO
+Sirve para oír | OREJA
+Une la mano con el hombro | BRAZO
+Lo que crece en la cabeza | PELO
+Lo usas para caminar | PIE
+Se lavan después de comer | DIENTES
+
+# --- Personas y oficios
+Apaga incendios | BOMBERO
+Te cura cuando estás enfermo | MÉDICO
+Reparte las cartas | CARTERO
+Hace el pan | PANADERO
+Viaja al espacio | ASTRONAUTA
+Resuelve misterios con una lupa | DETECTIVE
+Busca tesoros con un parche en el ojo | PIRATA
+Baila ballet de puntillas | BAILARINA
+Hace reír en el circo con la nariz roja | PAYASO
+Enseña en el colegio | MAESTRO
+Cocina en un restaurante | COCINERO
+Músico que toca la batería | BATERISTA
+Pinta cuadros | PINTOR
+Lleva corona y vive en un palacio | REY
+Esposa del rey | REINA
+Vive en el hielo y construye iglús | ESQUIMAL
+Recorre lugares que nadie conoce | EXPLORADOR
+
+# --- Deporte, juego y música
+Deporte con raqueta, pelota y red | TENIS
+Juego de mesa con reyes, torres y caballos | AJEDREZ
+Instrumento de seis cuerdas | GUITARRA
+Instrumento con teclas blancas y negras | PIANO
+Instrumento que se toca con un arco | VIOLÍN
+Instrumento de metal que se sopla | TROMPETA
+Se toca con dos palillos | TAMBOR
+Muchos músicos tocando juntos | ORQUESTA
+Lo que bailas sobre esta alfombra | MÚSICA
+Se lanza con el pie a la portería | BALÓN
+Deporte con volteretas y barras | GIMNASIA
+Se hace en la piscina | NATACIÓN
+Juego de atrapar en el que alguien «la liga» | PILLAPILLA
+Se sube y se tira por él en el parque | TOBOGÁN
+Se mece en el parque | COLUMPIO
+Atracción de feria con caballitos que giran | CARRUSEL
+Rueda gigante de la feria | NORIA
+Se vuela en la playa atada a un hilo | COMETA
+Se hinchan en las fiestas | GLOBOS
+Fiesta con tarta del día en que naciste, para abreviar | CUMPLE
+
+# --- Lugares y transporte
+Capital de Francia | PARÍS
+Capital de España | MADRID
+País con forma de bota | ITALIA
+Océano entre Europa y América | ATLÁNTICO
+El idioma en el que estás leyendo | ESPAÑOL
+Sala oscura donde se ven películas | CINE
+Dos ruedas, pedales y un manillar | BICICLETA
+Va por las vías | TREN
+Vuela y lleva pasajeros | AVIÓN
+Navega por el mar | BARCO
+Vehículo de dos ruedas que va con gasolina | MOTO
+Lleva a los astronautas al espacio | COHETE
+Lugar con libros para leer en silencio | BIBLIOTECA
+Donde se nada en verano | PISCINA
+Donde aprenden los niños | ESCUELA
+Donde viven los reyes | PALACIO
+Donde duermes cuando vas de viaje | HOTEL
+Construcción egipcia con forma de triángulo | PIRÁMIDE
+Une las dos orillas de un río | PUENTE
+Torre con luz que guía a los barcos | FARO
+
+# --- El tiempo y los números
+Lo contrario de la noche | DÍA
+El mes que va después de enero | FEBRERO
+Los días que tiene una semana | SIETE
+Lo contrario del frío | CALOR
+La estación más fría del año | INVIERNO
+La estación de las vacaciones y el calor | VERANO
+La estación en la que caen las hojas | OTOÑO
+La estación de las flores | PRIMAVERA
+El último mes del año | DICIEMBRE
+Los meses que tiene un año | DOCE
+El número de patas de una araña | OCHO
+Los dedos de una mano | CINCO
+Un día después de hoy | MAÑANA
+Un día antes de hoy | AYER
+Los minutos que tiene una hora | SESENTA
+
+# --- Colores
+Color del cielo despejado | AZUL
+Color de la hierba | VERDE
+Color de la sangre | ROJO
+Color de la nieve | BLANCO
+Color del carbón | NEGRO
+Color del limón | AMARILLO
+Color del chocolate | MARRÓN
+Color de la mezcla de rojo y azul | MORADO

@@ -1,0 +1,13 @@
+# Godot y .NET
+.godot/
+.vs/
+bin/
+obj/
+*.user
+
+# Material de trabajo (láminas originales, prompts, notas): no se publica
+Bastidor/
+
+# Exportaciones (se suben como Release, no al repositorio)
+export/
+*.zip

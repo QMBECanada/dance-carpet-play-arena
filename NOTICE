@@ -1,0 +1,32 @@
+Dance Carpet Play Arena
+Copyright 2026 Vicente Simón
+
+Este producto es el proyecto original «Dance Carpet Play Arena»: una colección de minijuegos para alfombra de baile USB,
+hecha con Godot.
+
+Créditos
+--------
+Programación, diseño y test ........ Claude (https://claude.ai)
+FDE, arnés y dirección ............. Vicente Simón (https://www.linkedin.com/in/vicentesimon)
+Planteamiento de juegos ............ Claude y Vicente Simón
+Ayudante de diseño visual .......... GPT (https://chatgpt.com)
+Música ............................. Suno (https://suno.com/)
+Efectos de sonido .................. Kenney (https://kenney.nl), CC0; algunos efectos, generados por código
+
+Este proyecto se distribuye bajo la Licencia Apache 2.0 (ver LICENSE). Según su sección 4, toda copia o versión
+derivada debe:
+  · conservar este fichero NOTICE, con la referencia a este proyecto como original y sus créditos, y
+  · indicar de forma visible qué archivos se han modificado.
+
+Material de terceros incluido (con sus propias licencias)
+---------------------------------------------------------
+· Sonidos de interfaz e impactos: Kenney «Interface Sounds» e «Impact Sounds», CC0 (dominio público).
+  assets/sounds/LICENSE-kenney.txt y assets/sounds/impact/LICENSE-kenney-impact.txt
+· Tipografías Bungee (David Jonathan Ross) y Outfit (The Outfit Project Authors): SIL Open Font License 1.1.
+  assets/fonts/Bungee-OFL.txt y assets/fonts/Outfit-OFL.txt
+· Motor Godot Engine (https://godotengine.org): licencia MIT.
+· Música (assets/musica y sus subcarpetas): generada con Suno (https://suno.com) en su plan gratuito.
+  NO está cubierta por la Licencia Apache 2.0 de este proyecto: según las condiciones de Suno para ese plan, las
+  canciones son propiedad de Suno y solo pueden usarse sin fines comerciales y citando a Suno. Quien quiera
+  redistribuir este proyecto con fines comerciales debe sustituir la música por otra con licencia adecuada.
+· Imágenes (assets/*): generadas con GPT por Vicente Simón para este proyecto.

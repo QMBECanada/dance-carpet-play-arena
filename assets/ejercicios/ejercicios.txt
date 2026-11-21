@@ -1,0 +1,85 @@
+# EJERCICIOS para el juego Ejercicio. Cada bloque: «# Nombre», una línea «inicio:» y una línea «pasos:».
+# I = pie izquierdo (columna izquierda y central), D = pie derecho (columna central y derecha).
+# Casillas:  ✕ ↑ ○  /  ← · →  /  △ ↓ □   (· es el centro). Cada paso: pie y casilla a la que va.
+# Cada ejercicio es cíclico: al final de los pasos los pies vuelven a donde empezaron.
+# Van ordenados de más sencillos a más complicados.
+
+# Paso adelante
+inicio: I ← D →
+pasos: D ○, I ✕, D →, I ←
+
+# Paso atrás
+inicio: I ← D →
+pasos: D □, I △, D →, I ←
+
+# Toque derecho
+inicio: I ← D →
+pasos: D ○, D →, D □, D →
+
+# Toque izquierdo
+inicio: I ← D →
+pasos: I ✕, I ←, I △, I ←
+
+# Al centro
+inicio: I ← D →
+pasos: I ·, I ←, D ·, D →
+
+# Adelante y atrás
+inicio: I ← D →
+pasos: D ○, I ✕, D →, I ←, D □, I △, D →, I ←
+
+# Arriba al centro
+inicio: I ← D →
+pasos: I ↑, I ←, D ↑, D →
+
+# Abajo al centro
+inicio: I ← D →
+pasos: I ↓, I ←, D ↓, D →
+
+# Juntos arriba y abajo
+inicio: I ← D →
+pasos: I ↑, D ↓, I ←, D →
+
+# Juntos abajo y arriba
+inicio: I ← D →
+pasos: I ↓, D ↑, I ←, D →
+
+# Diagonal izquierda
+inicio: I ← D →
+pasos: I ✕, I ·, I △, I ←
+
+# Diagonal derecha
+inicio: I ← D →
+pasos: D ○, D ·, D □, D →
+
+# Vals
+inicio: I ← D →
+pasos: I ✕, D ·, D →, I ←
+
+# Rombo izquierdo
+inicio: I ← D →
+pasos: I ✕, I ↑, I ·, I ←
+
+# Rombo derecho
+inicio: I ← D →
+pasos: D □, D ↓, D ·, D →
+
+# Tijera
+inicio: I ← D →
+pasos: D ○, I △, D □, I ✕, D →, I ←
+
+# Caja
+inicio: I ← D →
+pasos: I ✕, D ○, I ←, D →, I △, D □, I ←, D →
+
+# Molinillo
+inicio: I ← D →
+pasos: I ↑, D ○, I ✕, D →, I ←
+
+# Cruz izquierda
+inicio: I ← D →
+pasos: I ✕, I ←, I △, I ←, I ·, I ←
+
+# Cruz derecha
+inicio: I ← D →
+pasos: D ○, D →, D □, D →, D ·, D →
