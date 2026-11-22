@@ -18,7 +18,7 @@ public partial class MolesGame : Node3D
     private const double Duration = 60;
     private const double RiseTime = 0.18, HideTime = 0.22, HitTime = 0.42;
     private const int BasePoints = 100, QuickBonus = 50;
-    private const int MaxOut = 3;
+    private const int MaxOut = 3; // figuras a la vista a la vez (topillos y bombas)
     private const int MissPenalty = 50;
     private const double StunTime = 3;
 
@@ -224,8 +224,8 @@ public partial class MolesGame : Node3D
 
     private void Spawn()
     {
-        int outNow = _occupants.Values.Count(c => c.Phase is Critter.State.Rising or Critter.State.Up);
-        if (outNow >= MaxOut) return;
+        // Cuenta todo lo que se ve, también los que se esconden o acaban de recibir el golpe.
+        if (_occupants.Count >= MaxOut) return;
         var free = Holes.Where(h => !_occupants.ContainsKey(h) && h != _lastSpawn).ToArray();
         if (free.Length == 0) return;
         var pad = free[_rng.Next(free.Length)];
